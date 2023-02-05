@@ -13,7 +13,7 @@
 }
 
 body {
-  background-image: url(/public/css/pikaback.jpg);
+  background-image: url(./pikaback.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
